@@ -1,2 +1,20 @@
-# repo-name1
-file:///D:/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/new%201.html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пример фона</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background-image: url('images (1).png'); 
+            background-size: cover; 
+            background-position: center; 
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: white; text-align: center; margin-top: 20%;">Добро пожаловать!</h1>
+</body>
+</html>
