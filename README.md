@@ -88,7 +88,7 @@
 </div>
 
 <footer>
-    <p>Контакты: [Ваш Email]</p>
+    <p>Контакты: karina_daz5@mail.ru</p>
 </footer>
 
 </body>
