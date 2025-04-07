@@ -61,7 +61,7 @@
 <div class="container">
     <section>
         <h2>Обо мне</h2>
-        <p>Я - учусь на программиста, занимаюсь отдельо от этой професии музыкальными хобби.</p>
+        <p>Я - учусь на программиста, занимаюсь отдельно от этой професии музыкальными хобби.</p>
     </section>
 
     <section>
@@ -69,19 +69,15 @@
         <div class="projects">
             <div class="project">
                 <h3>Проект 1</h3>
-                <p>Описание проекта 1.</p>
-                <a href="https://example.com" target="_blank">Смотреть проект</a>
+                <p>Программа для зоопарка.</p>
+                <a href="https://github.com/MORAN7456/zoo" target="_blank">Смотреть проект</a>
             </div>
             <div class="project">
                 <h3>Проект 2</h3>
-                <p>Описание проекта 2.</p>
-                <a href="https://example.com" target="_blank">Смотреть проект</a>
+                <p>Проект каталог видео игр.</p>
+                <a href="https://preview--playful-gamer-archive.lovable.app/" target="_blank">Смотреть проект</a>
             </div>
-            <div class="project">
-                <h3>Проект 3</h3>
-                <p>Описание проекта 3.</p>
-                <a href="https://example.com" target="_blank">Смотреть проект</a>
-            </div>
+            
             <!-- Добавьте больше проектов по мере необходимости -->
         </div>
     </section>
